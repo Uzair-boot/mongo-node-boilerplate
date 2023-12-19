@@ -1,8 +1,8 @@
 const express = require ('express')
 const app = express();
 // const MONGO_URL = "mongodb+srv://uzair:BCGoKwvfyFUSIn3L@cluster0.zrjubhl.mongodb.net/?retryWrites=true&w=majority"
-const MONGO_URL = "mongodb+srv://aminaaslam985:amina123@cluster0.w7bvzq1.mongodb.net/?w=majority"
-
+// const MONGO_URL = "mongodb+srv://aminaaslam985:amina123@cluster0.w7bvzq1.mongodb.net/?w=majority"
+const MONGO_URL = "mongodb://103.18.20.49:3029/"
 
 
 const mongoose = require ('mongoose');
